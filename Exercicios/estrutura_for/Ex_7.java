@@ -13,7 +13,7 @@ public class Ex_7 {
 			int quadrado = i *i;
 			int cubo = i*i*i;
 			
-			System.out.printf("%d %d %d%n", n, quadrado,cubo);
+			System.out.printf("%d %d %d%n", i, quadrado,cubo);
 		}
 		sc.close();
 	}
