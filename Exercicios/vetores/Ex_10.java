@@ -27,7 +27,6 @@ public class Ex_10 {
 				
 				System.out.println("Alunos aprovados: \n");
 				
-
 				for (int i=0; i<n; i++) {
 					mediaAluno = (nota1[i] + nota2[i])/2.0 ;
 					if (mediaAluno >= 6.0) {
@@ -38,5 +37,3 @@ public class Ex_10 {
 				sc.close();
 		}
 	}
-
-
