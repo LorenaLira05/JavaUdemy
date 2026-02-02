@@ -28,12 +28,9 @@ public static void main(String[] args) {
 		for(int i=0; i<n; i++) {
 			if(vetor[i]<media) {
 				System.out.printf("%.1f\n", vetor[i]);
-		}
-			
+			}	
 		}
 		
-
 		sc.close();	
-		
 	}
 }
