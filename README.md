@@ -3,13 +3,10 @@ Repositório com os exercícios que estou fazendo durante o curso
 
 ---
 
-## Sobre
-
-Aqui estão os códigos que pratico ao longo das aulas, para aprender:
-- Lógica de programação
-- Estruturas condicionais e de repetição
-- Entrada e saída de dados
-- Programação orientada a objetos (POO)
-- Tratamento de dados e cálculos
-
----
+## 📝 Roadmap de Estudos
+- [x] Classes, Atributos e Métodos
+- [x] Encapsulamento e Construtores
+- [x] Composição de Objetos
+- [x] Herança e Polimorfismo (Em progresso)
+- [ ] Classes e Métodos Abstratos
+- [ ] Interfaces
