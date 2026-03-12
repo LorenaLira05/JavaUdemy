@@ -11,7 +11,7 @@ public static void main(String[] args) {
     list.add("Anna");
     list.add(2, "Marco");
     System.out.println(list.size());
-  for(Stringx: list) {
+  for(String x: list) {
     System.out.println(x);
   }
 System.out.println("---------------------");
